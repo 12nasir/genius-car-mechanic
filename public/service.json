@@ -1,0 +1,42 @@
+[
+    {   "id":1,
+        "name":"Engine Diagnostic",
+        "price":"300",
+        "description":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor ex accusamus, et quibusdam perferendis eius magnam neque numquam necessitatibus pariatur culpa, illum unde aliquid cum ipsam, temporibus a fugit impedit.",
+        "img":"https://i.ibb.co/zb7gSDM/aaron-huber-Kxe-Fu-Xta4-SE-unsplash.jpg"
+    },
+    {
+        "id":2,
+        "name":"Oil Changing",
+        "price":"230",
+        "description":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor ex accusamus, et quibusdam perferendis eius magnam neque numquam necessitatibus pariatur culpa, illum unde aliquid cum ipsam, temporibus a fugit impedit.",
+        "img":"https://i.ibb.co/bg1jjkf/benjamin-brunner-K3cj-UOMm-Mhc-unsplash.jpg"},
+    {
+        "id":3,
+        "name":"Breake Matching",
+        "price":"450",
+        "description":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor ex accusamus, et quibusdam perferendis eius magnam neque numquam necessitatibus pariatur culpa, illum unde aliquid cum ipsam, temporibus a fugit impedit.",
+        "img":"https://i.ibb.co/C6YCTJh/erik-mclean-3u-Hl-GFnz-PDU-unsplash.jpg"
+    },
+    {
+        "id":4,
+        "name":"Tyre Changing",
+        "price":"100",
+        "description":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor ex accusamus, et quibusdam perferendis eius magnam neque numquam necessitatibus pariatur culpa, illum unde aliquid cum ipsam, temporibus a fugit impedit.",
+        "img":"https://i.ibb.co/s9Whfq3/kenny-eliason-2-K-PG95ql-I-unsplash.jpg"
+    },
+    {
+        "id":5,
+        "name":"Piston Changing",
+        "price":"200",
+        "description":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor ex accusamus, et quibusdam perferendis eius magnam neque numquam necessitatibus pariatur culpa, illum unde aliquid cum ipsam, temporibus a fugit impedit.",
+        "img":"https://i.ibb.co/XSHnxkd/sten-rademaker-UZUzv-JEv-Kn-I-unsplash.jpg"
+    },
+    {
+        "id":6,
+        "name":"ClassPlate changing",
+        "price":"250",
+        "description":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor ex accusamus, et quibusdam perferendis eius magnam neque numquam necessitatibus pariatur culpa, illum unde aliquid cum ipsam, temporibus a fugit impedit.",
+        "img":"https://i.ibb.co/ZxRCgDc/tekton-O-ufc-LVTAYw-unsplash.jpg"
+        }
+]

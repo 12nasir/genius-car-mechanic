@@ -1,0 +1,23 @@
+[
+    {   "name":"Bunty Rods",
+        "img":"https://images.unsplash.com/photo-1615906655593-ad0386982a0f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "expertize":"Engine Experts"
+    },
+
+    {
+        "name":"Hissa Main",
+        "img":"https://images.unsplash.com/photo-1599474151975-1f978922fa02?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8bWVjaGFuaWN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "expertize":"Color Experts"
+    },
+
+    {
+        "name":"Justin Samfi",
+        "img":"https://images.unsplash.com/photo-1534637950656-9e6753b6da6b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fG1lY2hhbmljfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "expertize":"Body Expert"},
+    
+    {
+        "name":"Rustle Bravo",
+        "img":"https://images.unsplash.com/photo-1618783129985-dd97dbe4ad99?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fG1lY2hhbmljfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "expertize":"Allrounder Experts"
+        }
+]
